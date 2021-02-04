@@ -14,7 +14,10 @@ class TestLogin:
         assert True
 
     def test_hello5(self):
-        assert False
+        assert True
 
     def test_hello6(self):
-        assert False
+        assert True
+
+    def test_hello7(self):
+        assert True
